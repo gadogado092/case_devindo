@@ -1,5 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.case_devindo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    
    <application
         android:label="case_devindo"
         android:icon="@mipmap/ic_launcher">
